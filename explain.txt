@@ -1,0 +1,5 @@
+
+deploy to vercel: account: github of dicegods
+vercel url: https://ytupres.vercel.app/
+github download url: https://github.com/dicegods/youtube/raw/refs/heads/master/
+or https://github.com/goddatas/youtube/raw/refs/heads/master/
